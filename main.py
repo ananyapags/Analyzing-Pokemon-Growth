@@ -20,6 +20,8 @@ Analysis:
 2. Boxplot comparing the average base stats amongst types
 3. Barplot comparing base experience levels amongst types
 
+I love coding
+
 """
 
 import requests
